@@ -3,7 +3,8 @@
     {
       "id": 1,
       "Name": "Arthur Oliveira",
-      "email": "aoliveira@cod3r.com.br"
+      "email": "aoliveira@cod3r.com.br",
+      "name": "Arthur Oliveira"
     },
     {
       "id": 2,
@@ -11,7 +12,7 @@
       "email": "mjds@empresa.com"
     },
     {
-      "name": "Ana Silva",
+      "name": "Ana Silva Alt",
       "email": "anasilva@negocio.com.br",
       "id": 3
     }
